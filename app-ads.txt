@@ -1,0 +1,2 @@
+# Copy the exact lines from your AppLovin dashboard (MAX > Monetize > Setup / app-ads.txt) and add other networks you use.
+# applovin.com, <YOUR_PUBLISHER_ID>, DIRECT, <CERTIFICATION_AUTHORITY_ID>
